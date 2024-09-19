@@ -1,6 +1,6 @@
 👋 Hi, I'm @Ecnama !
 - 🌱 Student at the INSA Rennes engineering school
-- 💻 Systems and Networks team at the InsaLan student organisation
+- 💻 Systems and Networks team at the InsaLan student club
 - 📫 How to reach me : amance@famille-graindorge.fr / amance.graindorge@insa-rennes.fr
 - 😄 Pronouns: he/him
 
